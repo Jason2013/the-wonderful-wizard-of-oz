@@ -3,7 +3,7 @@
 # -- Project information
 
 project = '绿野仙踪'
-#copyright = '2025, 上海译文出版社'
+copyright = '2025, 轩宇阅读网'
 author = '【美】弗兰克·鲍姆'
 
 release = '0.1.0'
