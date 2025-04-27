@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = '精灵鼠小弟'
-copyright = '2025, 上海译文出版社'
-author = '【美】E・B・怀特'
+project = '绿野仙踪'
+#copyright = '2025, 上海译文出版社'
+author = '【美】弗兰克·鲍姆'
 
 release = '0.1.0'
 version = '0.1.0'
@@ -37,7 +37,7 @@ epub_show_urls = 'footnote'
 html_context = {
     "display_github": True, # Integrate GitHub
     "github_user": "Jason2013", # Username
-    "github_repo": "stuart-little-cn", # Repo name
+    "github_repo": "the-wonderful-wizard-of-oz", # Repo name
     "github_version": "main", # Version
     "conf_py_path": "/docs/source/", # Path in the checkout to the docs root
 }
